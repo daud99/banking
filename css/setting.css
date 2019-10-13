@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+#sidebar {
+    background: black;
+    color: white;
+    height:100%;
+    padding: 50px;
+    padding-bottom: 350px;
+
+}
+
+#editform {
+    display: none;
+}
+
+#fa {
+    display: none;
+}
+
+#deleteview {
+    display: none;
+}
+
+.hideanswer {
+    display: none;
+}
